@@ -50,3 +50,8 @@ The list is organised by level (institution, national, international) and discip
   - RDA’s [working and interest groups](https://rd-alliance.org/groups)
   - RDA/EOSC [Future ambassadors](https://eoscfuture-grants.eu/meet-the-grantees#section244)
   - [GOFAIR Implementation Networks](https://www.go-fair.org/implementation-networks/overview/)
+
+
+## License
+<a href="http://creativecommons.org/publicdomain/zero/1.0/"><img src="https://i.creativecommons.org/p/zero/1.0/88x31.png"></a>
+
