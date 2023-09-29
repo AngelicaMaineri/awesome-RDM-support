@@ -1,4 +1,4 @@
-# Awesome RDM experts
+# Awesome RDM support
 *What*: A curated list of organisations and groups that offer RDM support and expertise.
 
 *What is an [awesome](https://github.com/sindresorhus/awesome) list?*
