@@ -36,7 +36,7 @@ The list is organised by level (institution, national, international) and discip
   - DNK: Denmark’s [National Forum for Research Data Management](https://www.deic.dk/en/data-management/archive/national-research-data-management-governance-structure)
   - GBR: UK’s Data curation center ([DCC](https://www.dcc.ac.uk/about))
   - ITA: Italian Computing and Data Infrastructure ([ICDI](https://www.icdi.it/en/activities/competence-centre)) Competence Center
-  - NLD: the Netherland’s LCRDM (see [LCRDM’s pool of experts](https://www.lcrdm.nl/en/list-of-experts)) 
+  - NLD: the Netherland’s LCRDM (see [LCRDM’s pool of experts](https://lcrdm.nl/pool-of-experts/)) 
   - NLD: the Netherland’s [Data Stewardship Interest Group (DSIG)](https://www.dtls.nl/about/community/interest-groups/data-stewards-interest-group/)
 
 ## International level
