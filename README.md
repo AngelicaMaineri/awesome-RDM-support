@@ -3,7 +3,7 @@
 
 *What is an [awesome](https://github.com/sindresorhus/awesome) list?*
 
-This list collects sources of RDM support and expertise at different levels. If you have questions or remarks, reach out to [Angelica Maineri](mailto:angelica@odissei-data.nl). The list started as a recommendation in a paper which is currently under review. If you want to add resources to the list, please consult the file `CONTRIBUTION_GUIDELINES.md`.
+This list collects sources of RDM support and expertise at different levels. If you have questions or remarks, reach out to [Angelica Maineri](mailto:angelica@odissei-data.nl). The list is meant as a complement to Table 1 in the paper "Ten simple rules for starting FAIR discussions in your community" ([doi](https://doi.org/10.1371/journal.pcbi.1011668)). If you want to add resources to the list, please consult the file `CONTRIBUTION_GUIDELINES.md`.
 
 The list is organised by level (institution, national, international) and disciplinary focus (discipline-specific vs. general purpose). When applicable, the country is indicated using [ISO-3166-alpha3 codes](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) 
 
